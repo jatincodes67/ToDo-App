@@ -3,7 +3,7 @@ import Appname from "./components/Appname";
 import AddToDo from "./components/AddToDo";
 import ItemsComponent from "./components/ItemsComponents.jsx";
 import FunMessage from "./components/FunMessage";
-import itemsStoreContext from "./store/items-store-Context.jsx";
+import itemsStoreContext from "./store/items-store.jsx";
 import "./App.css";
 
 function App() {
